@@ -1,0 +1,1 @@
+# GitHub Write Bridge Smoke Test\n\nCreated automatically on 2026-10-04 to verify repository creation and guarded Git commits from the deployed bridge.\n
